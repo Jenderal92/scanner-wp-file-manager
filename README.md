@@ -1,2 +1,4 @@
 # scanner-wp-file-manager
-python2
+
+python 2 .7
+
